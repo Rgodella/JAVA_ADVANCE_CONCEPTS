@@ -1,0 +1,8 @@
+Properties class are subclass of HashTable.
+  -> Properties Class are used to get and set property to properties file.
+  -> It Provide lots of methods to store the perform different functions on Properties.
+  
+Advantage : 
+   No need to RECOMPILE if the information changed in properties file only.
+
+//LETS TAKE AN EXAMPLE OF PROPERTIES CLASS
